@@ -10,4 +10,5 @@
     <!-- Define your beans here -->
     <bean id="myCoach" class="TrackCoach"></bean>
     <bean id="myCoach2" class="BaseballCoach"></bean>
+    <bean id="myService" class="HappyFortuneService"></bean>
 </beans>

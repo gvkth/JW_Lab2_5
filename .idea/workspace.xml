@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1477237-6630-4d1f-82b6-d094f3c42b96" name="Changes" comment="" />
+    <list default="true" id="a1477237-6630-4d1f-82b6-d094f3c42b96" name="Changes" comment="Start Lab2.5">
+      <change afterPath="$PROJECT_DIR$/src/FortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyFortuneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaseballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseballCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrackCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/applicationContext.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682822574568</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Start Lab2.5">
+      <created>1682825092527</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1682825092527</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +187,7 @@
     <MESSAGE value="End Lab2.3&#10;+ File hướng dẫn" />
     <MESSAGE value="Start Lab2.4" />
     <MESSAGE value="Completed (đã làm luôn trong Lab2.3)&#10;https://viblo.asia/p/bean-va-applicationcontext-la-gi-trong-spring-boot-Ljy5Vjwj5ra" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed (đã làm luôn trong Lab2.3)&#10;https://viblo.asia/p/bean-va-applicationcontext-la-gi-trong-spring-boot-Ljy5Vjwj5ra" />
+    <MESSAGE value="Start Lab2.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start Lab2.5" />
   </component>
 </project>
